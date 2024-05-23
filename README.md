@@ -20,7 +20,7 @@ Modules are divided into:
 <p align="center">
   <img width="200" height="200" src="https://raw.githubusercontent.com/smit585/Upenn-Robotics/master/Robotics%20and%20Estimation/Week%201/DemoImages/DemoGIFWeek1.gif">
 </p>
-    * Introduced to Kalman Filter and Maximum-A-Posterior Estimation. Week 2 Assignment required to track the ball in 2D space
+    
     *  Week 3 introduces us to Mapping and crucial aspects of Localization. In Week 3 Assignment, we build an Occupancy Grid Map, that reads the Lidar Data off a Bot and using log loss data, designates certaininty to a discretized map. Darker the map -> Higher the Certainity of Free space.
     <p align="center">
   <img width="400" height="300" src="https://raw.githubusercontent.com/smit585/Upenn-Robotics/master/Robotics%20and%20Estimation/Week%203/DemoImages/Week3Demo.gif">
