@@ -25,7 +25,7 @@ Modules are divided into:
     <p align="center">
   <img width="400" height="300" src="https://raw.githubusercontent.com/smit585/Upenn-Robotics/master/Robotics%20and%20Estimation/Week%203/DemoImages/Week3Demo.gif">
 </p>
-    * The final week wraps up the course by discussing about Particle filtering, a modified version of Unscented Kalman Filter. The Capstone project requires usage of Particle Filter to estimate the best Pose of Robot in accordance to the correlation of Lidar and Groundtruth Map Data. 
+   
 <p align="center">
   <img width="400" height="300" src="https://github.com/smit585/Upenn-Robotics/blob/master/Robotics%20and%20Estimation/Week%204/DemoImages/DemoWeek4.gif?raw=true">
 <p align="center">
